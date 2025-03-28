@@ -28,12 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 </div>
 
-### 📊 LeetCode Статистика
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Dumin_Andrew&theme=dark" alt="LeetCode Stats" />
-</div>
-
 ### 🎯 Мои достижения
 
 <div align="center">
@@ -64,6 +58,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/DuminAndrew?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&community=false&repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&metadata=false&metadata.achievements=false&metadata.ignored=false&metadata.linked=false&metadata.notable=false&metadata.pinned=false&metadata.starred=false&metadata.contributions=false&config.timezone=Europe%2FMoscow" alt="GitHub Metrics" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DuminAndrew&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
