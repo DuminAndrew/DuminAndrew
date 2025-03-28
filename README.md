@@ -1,6 +1,28 @@
 # 🚀 Андрей Думин | C++ Developer
 
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/your_vk">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://youtube.com/your_youtube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DuminAndrew&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+### 🛠️ Технический стек
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
@@ -11,13 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</div>
-
-### 💻 Языки программирования
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </div>
 
 ### 📚 C++ Библиотеки
@@ -57,10 +72,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DuminAndrew&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuminAndrew&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
