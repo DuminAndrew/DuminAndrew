@@ -1,5 +1,3 @@
-# 🚀 Андрей Думин | C++ Developer
-
 <div align="center">
   <img src="animation.gif" width="100"/>
 </div>
