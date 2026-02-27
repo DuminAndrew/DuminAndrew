@@ -18,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=DuminAndrew&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
+###Количество строчек кода в последнем проекте - ![Lines of Code](https://api.cloc.xyz/github.com/DuminAndrew/HighWall)
+
 ### 🛠️ Технический стек
 
 <div align="center">
