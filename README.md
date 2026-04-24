@@ -197,11 +197,23 @@ public:
 
 ---
 
-### 🏆 Trophy Room
+### 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DuminAndrew&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+  <a href="https://github.com/DuminAndrew/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 1"/>
+  </a>
+  <a href="https://github.com/DuminAndrew/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 2"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DuminAndrew/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 3"/>
+  </a>
+  <a href="https://github.com/DuminAndrew/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 4"/>
   </a>
 </div>
 
