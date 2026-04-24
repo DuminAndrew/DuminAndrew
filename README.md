@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Andrew Dumin — Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Andrew%20Dumin&fontSize=80&fontAlignY=35&desc=%E2%9A%A1%20C%2B%2B%20Engineer%20%E2%80%A2%20System%20Programming%20%E2%80%A2%20High-Performance%20Computing%20%E2%9A%A1&descAlignY=58&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 </div>
 
 <div align="center">
@@ -8,12 +8,62 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="assets/ci-pipeline.svg" width="100%" alt="CI/CD Pipeline Animation"/>
-</div>
+<br/>
+
+### 🔄 My Development Pipeline
+
+```mermaid
+---
+config:
+  theme: dark
+  themeVariables:
+    primaryColor: '#00a8ff'
+    primaryTextColor: '#ffffff'
+    primaryBorderColor: '#00a8ff'
+    lineColor: '#00a8ff'
+    background: '#0d1117'
+---
+flowchart LR
+    A([📝 Commit]):::node --> B([🔨 Build]):::node
+    B --> C{🧪 Tests}:::decision
+    C -->|✅ Pass| D([📦 Package]):::node
+    C -->|❌ Fail| A
+    D --> E([🚀 Deploy]):::node
+    E --> F([📊 Monitor]):::node
+    F -.->|feedback loop| A
+
+    classDef node fill:#161b22,stroke:#00a8ff,stroke-width:2px,color:#c9d1d9
+    classDef decision fill:#1a1f3a,stroke:#ff6b35,stroke-width:2px,color:#ffffff
+```
+
+### 🎯 How I Approach Every Problem
+
+```mermaid
+---
+config:
+  theme: dark
+  themeVariables:
+    primaryColor: '#bb9af7'
+    primaryBorderColor: '#bb9af7'
+    lineColor: '#00a8ff'
+---
+stateDiagram-v2
+    [*] --> Think
+    Think --> Research: gather context
+    Research --> Prototype: form hypothesis
+    Prototype --> Benchmark: measure
+    Benchmark --> Optimize: if slow
+    Benchmark --> Ship: if fast enough
+    Optimize --> Benchmark
+    Ship --> [*]
+    Ship --> Refactor: tech debt
+    Refactor --> Think
+```
 
 <div align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Live Terminal Simulation"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=90&pause=2000&color=41CD52&multiline=true&width=700&height=240&lines=%24+cmake+--build+build+-j8;%5B+25%25%5D+Building+CXX+object+main.cpp.o;%5B+50%25%5D+Building+CXX+object+engine.cpp.o;%5B+75%25%5D+Building+CXX+object+ui.cpp.o;%5B100%25%5D+Linking+CXX+executable+quiz;%E2%9C%93+Build+succeeded+in+4.2s;;%24+ctest+--output-on-failure;Test+1%3A+engine_tests+......+%E2%9C%93+Passed;Test+2%3A+ui_tests+..........+%E2%9C%93+Passed;%E2%9C%93+100%25+tests+passed%2C+0+failed+out+of+42;;%24+docker+build+-t+quizown%3Alatest+.+%26%26+docker+push;%E2%9C%93+Image+pushed+to+registry;%F0%9F%9A%80+Deployed+successfully" alt="Terminal"/>
+  </a>
 </div>
 
 <div align="center">
