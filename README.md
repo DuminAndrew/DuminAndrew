@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Andrew%20Dumin&fontSize=70&fontAlignY=35&desc=C%2B%2B%20Software%20Engineer%20%7C%20System%20Programming%20%7C%20High-Performance%20Computing&descAlignY=55&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="assets/hero.svg" width="100%" alt="Andrew Dumin — Hero Banner"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="animation.gif" width="450" alt="animation"/>
+  <img src="assets/ci-pipeline.svg" width="100%" alt="CI/CD Pipeline Animation"/>
+</div>
+
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Live Terminal Simulation"/>
 </div>
 
 <div align="center">
@@ -200,20 +204,20 @@ public:
 ### 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 1"/>
+  <a href="https://github.com/DuminAndrew/QuizOwn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=QuizOwn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 1"/>
   </a>
-  <a href="https://github.com/DuminAndrew/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 2"/>
+  <a href="https://github.com/DuminAndrew/MD-RDS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=MD-RDS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 2"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 3"/>
+  <a href="https://github.com/DuminAndrew/Text-User-Interface">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=Text-User-Interface&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 3"/>
   </a>
-  <a href="https://github.com/DuminAndrew/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 4"/>
+  <a href="https://github.com/DuminAndrew/Taymer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=Taymer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 4"/>
   </a>
 </div>
 
