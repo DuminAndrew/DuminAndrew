@@ -10,59 +10,34 @@
 
 <br/>
 
-### 🔄 My Development Pipeline
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡-BUILDING-00A8FF?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=00A8FF&center=true&vCenter=true&multiline=false&width=240&height=30&lines=QuizOwn+v2.0;Cross-platform+Qt6;Modern+C%2B%2B23" alt="building"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔥-LEARNING-FF6B35?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=false&width=240&height=30&lines=Coroutines;Concepts+%26+Ranges;Memory+ordering" alt="learning"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🚀-EXPLORING-41CD52?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=41CD52&center=true&vCenter=true&multiline=false&width=240&height=30&lines=Rust+%F0%9F%A6%80;WebAssembly;Embedded+Systems" alt="exploring"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```mermaid
----
-config:
-  theme: dark
-  themeVariables:
-    primaryColor: '#00a8ff'
-    primaryTextColor: '#ffffff'
-    primaryBorderColor: '#00a8ff'
-    lineColor: '#00a8ff'
-    background: '#0d1117'
----
-flowchart LR
-    A([📝 Commit]):::node --> B([🔨 Build]):::node
-    B --> C{🧪 Tests}:::decision
-    C -->|✅ Pass| D([📦 Package]):::node
-    C -->|❌ Fail| A
-    D --> E([🚀 Deploy]):::node
-    E --> F([📊 Monitor]):::node
-    F -.->|feedback loop| A
+<br/>
 
-    classDef node fill:#161b22,stroke:#00a8ff,stroke-width:2px,color:#c9d1d9
-    classDef decision fill:#1a1f3a,stroke:#ff6b35,stroke-width:2px,color:#ffffff
-```
-
-### 🎯 How I Approach Every Problem
-
-```mermaid
----
-config:
-  theme: dark
-  themeVariables:
-    primaryColor: '#bb9af7'
-    primaryBorderColor: '#bb9af7'
-    lineColor: '#00a8ff'
----
-stateDiagram-v2
-    [*] --> Think
-    Think --> Research: gather context
-    Research --> Prototype: form hypothesis
-    Prototype --> Benchmark: measure
-    Benchmark --> Optimize: if slow
-    Benchmark --> Ship: if fast enough
-    Optimize --> Benchmark
-    Ship --> [*]
-    Ship --> Refactor: tech debt
-    Refactor --> Think
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=90&pause=2000&color=41CD52&multiline=true&width=700&height=240&lines=%24+cmake+--build+build+-j8;%5B+25%25%5D+Building+CXX+object+main.cpp.o;%5B+50%25%5D+Building+CXX+object+engine.cpp.o;%5B+75%25%5D+Building+CXX+object+ui.cpp.o;%5B100%25%5D+Linking+CXX+executable+quiz;%E2%9C%93+Build+succeeded+in+4.2s;;%24+ctest+--output-on-failure;Test+1%3A+engine_tests+......+%E2%9C%93+Passed;Test+2%3A+ui_tests+..........+%E2%9C%93+Passed;%E2%9C%93+100%25+tests+passed%2C+0+failed+out+of+42;;%24+docker+build+-t+quizown%3Alatest+.+%26%26+docker+push;%E2%9C%93+Image+pushed+to+registry;%F0%9F%9A%80+Deployed+successfully" alt="Terminal"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=60&pause=1500&color=41CD52&multiline=true&width=900&height=320&lines=%E2%95%AD%E2%94%80%E2%94%80+andrew%40dev+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AE;%E2%94%82+%E2%9E%9C+cmake+--build+build+-j8++++++++++++++++++++%E2%94%82;%E2%94%82+++%5B+25%25%5D+Building+CXX+main.cpp.o++++++++++%E2%94%82;%E2%94%82+++%5B+50%25%5D+Building+CXX+engine.cpp.o++++++++%E2%94%82;%E2%94%82+++%5B+75%25%5D+Building+CXX+ui.cpp.o++++++++++++%E2%94%82;%E2%94%82+++%5B100%25%5D+Linking+CXX+executable+quiz+++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Build+succeeded+in+4.2s++++++++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+ctest+--output-on-failure++++++++++++++++%E2%94%82;%E2%94%82+++Test+%231%3A+engine_tests+%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++Test+%232%3A+ui_tests+%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++%E2%9C%93+42%2F42+tests+passed+%E2%80%94+0+failed++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+docker+build+-t+quizown%3Alatest+.++++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Image+pushed+%E2%80%94+ready+to+deploy+%F0%9F%9A%80+++%E2%94%82;%E2%95%B0%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AF" alt="Terminal"/>
   </a>
 </div>
 
