@@ -52,15 +52,9 @@
 <br/>
 
 <div align="center">
-
-```diff
-+ ┌──────────────────────────────────────────────────────────────────┐
-+ │  "Any fool can write code that a computer can understand.        │
-+ │   Good programmers write code that humans can understand."       │
-+ │                                           — Martin Fowler        │
-+ └──────────────────────────────────────────────────────────────────┘
-```
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=1500&color=41CD52&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%E2%80%9CAny+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.%E2%80%9D;%E2%80%94+Martin+Fowler" alt="Martin Fowler quote"/>
+  </a>
 </div>
 
 ---
