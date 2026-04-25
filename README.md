@@ -57,7 +57,9 @@
   </a>
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 <table align="center" width="100%">
 <tr>
@@ -135,7 +137,9 @@ public:
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 🧰 Tech Arsenal
 
@@ -174,7 +178,9 @@ public:
 
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -200,7 +206,9 @@ public:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuminAndrew&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00A8FF&line=00A8FF&point=FFFFFF&area=true&area_color=00A8FF&custom_title=%E2%9A%A1%20Contribution%20Graph%20%E2%9A%A1" alt="Activity Graph" width="100%"/>
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 🏅 Profile Summary
 
@@ -218,7 +226,9 @@ public:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuminAndrew&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 📌 Featured Repositories
 
@@ -240,7 +250,9 @@ public:
   </a>
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 💭 Random Dev Quote
 
@@ -248,7 +260,9 @@ public:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
+<div align="center">
+  <img src="divider.svg" width="100%" alt="divider"/>
+</div>
 
 ### 🌐 Let's Connect
 
