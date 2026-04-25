@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Andrew%20Dumin&fontSize=80&fontAlignY=35&desc=%E2%9A%A1%20C%2B%2B%20Engineer%20%E2%80%A2%20System%20Programming%20%E2%80%A2%20High-Performance%20Computing%20%E2%9A%A1&descAlignY=58&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
+  <img src="hero.svg" width="100%" alt="Andrew Dumin — Animated Hero"/>
 </div>
 
 <div align="center">
