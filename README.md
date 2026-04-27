@@ -233,20 +233,17 @@ public:
 ### 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/QuizOwn">
+  <a href="https://github.com/DuminAndrew/OmniDesk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=QuizOwn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 1"/>
   </a>
-  <a href="https://github.com/DuminAndrew/MD-RDS">
+  <a href="https://github.com/DuminAndrew/TikCanvas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=MD-RDS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 2"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/Text-User-Interface">
+  <a href="https://github.com/DuminAndrew/rudapt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=Text-User-Interface&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 3"/>
-  </a>
-  <a href="https://github.com/DuminAndrew/Taymer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=Taymer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 4"/>
   </a>
 </div>
 
