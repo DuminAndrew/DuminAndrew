@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=00A8FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%E2%9A%A1+Welcome+to+my+digital+workshop+%E2%9A%A1;%F0%9F%9A%80+Crafting+blazing-fast+C%2B%2B+code;%F0%9F%A7%A0+Obsessed+with+clean+architecture;%F0%9F%92%BB+Turning+coffee+into+algorithms+since+forever" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=800&color=00A8FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%E2%9A%A1+Welcome+to+my+digital+workshop+%E2%9A%A1;%F0%9F%9A%80+Crafting+blazing-fast+C%2B%2B+code;%F0%9F%94%92+Building+security+%26+privacy+tooling;%F0%9F%92%BB+Turning+coffee+into+algorithms+since+forever" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -15,15 +15,15 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/⚡-BUILDING-00A8FF?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=00A8FF&center=true&vCenter=true&multiline=false&width=240&height=30&lines=QuizOwn+v2.0;Cross-platform+Qt6;Modern+C%2B%2B23" alt="building"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=00A8FF&center=true&vCenter=true&multiline=false&width=240&height=30&lines=SDK-Sanitizer;Android+privacy+scanner;GitHub+Action+%2B+SARIF" alt="building"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🔥-LEARNING-FF6B35?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=false&width=240&height=30&lines=Coroutines;Concepts+%26+Ranges;Memory+ordering" alt="learning"/>
+        <img src="https://img.shields.io/badge/🔥-SHIPPING-FF6B35?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=false&width=240&height=30&lines=solidity-gas-slasher;Smart+contract+auditing;Static+analysis+CLI" alt="shipping"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🚀-EXPLORING-41CD52?style=for-the-badge&labelColor=0D1117" alt="status"/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=41CD52&center=true&vCenter=true&multiline=false&width=240&height=30&lines=Rust+%F0%9F%A6%80;WebAssembly;Embedded+Systems" alt="exploring"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=41CD52&center=true&vCenter=true&multiline=false&width=240&height=30&lines=Rust+%F0%9F%A6%80;Jetpack+Compose;Local-first+LLM+tooling" alt="exploring"/>
       </td>
     </tr>
   </table>
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=60&pause=1500&color=41CD52&multiline=true&width=900&height=320&lines=%E2%95%AD%E2%94%80%E2%94%80+andrew%40dev+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AE;%E2%94%82+%E2%9E%9C+cmake+--build+build+-j8++++++++++++++++++++%E2%94%82;%E2%94%82+++%5B+25%25%5D+Building+CXX+main.cpp.o++++++++++%E2%94%82;%E2%94%82+++%5B+50%25%5D+Building+CXX+engine.cpp.o++++++++%E2%94%82;%E2%94%82+++%5B+75%25%5D+Building+CXX+ui.cpp.o++++++++++++%E2%94%82;%E2%94%82+++%5B100%25%5D+Linking+CXX+executable+quiz+++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Build+succeeded+in+4.2s++++++++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+ctest+--output-on-failure++++++++++++++++%E2%94%82;%E2%94%82+++Test+%231%3A+engine_tests+%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++Test+%232%3A+ui_tests+%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++%E2%9C%93+42%2F42+tests+passed+%E2%80%94+0+failed++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+docker+build+-t+quizown%3Alatest+.++++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Image+pushed+%E2%80%94+ready+to+deploy+%F0%9F%9A%80+++%E2%94%82;%E2%95%B0%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AF" alt="Terminal"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=60&pause=1500&color=41CD52&multiline=true&width=900&height=320&lines=%E2%95%AD%E2%94%80%E2%94%80+andrew%40dev+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AE;%E2%94%82+%E2%9E%9C+cmake+--build+build+-j8++++++++++++++++++++%E2%94%82;%E2%94%82+++%5B+25%25%5D+Building+CXX+main.cpp.o++++++++++%E2%94%82;%E2%94%82+++%5B+50%25%5D+Building+CXX+engine.cpp.o++++++++%E2%94%82;%E2%94%82+++%5B+75%25%5D+Building+CXX+ui.cpp.o++++++++++++%E2%94%82;%E2%94%82+++%5B100%25%5D+Linking+CXX+executable+quiz+++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Build+succeeded+in+4.2s++++++++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+ctest+--output-on-failure++++++++++++++++%E2%94%82;%E2%94%82+++Test+%231%3A+engine_tests+%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++Test+%232%3A+ui_tests+%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6+%E2%9C%93+Passed+%E2%94%82;%E2%94%82+++%E2%9C%93+42%2F42+tests+passed+%E2%80%94+0+failed++++++++++%E2%94%82;%E2%94%82+%E2%9E%9C+docker+build+-t+quizown%3Alatest+.++++++++%E2%94%82;%E2%94%82+++%E2%9C%93+Image+pushed+%E2%80%94+ready+to+deploy+%F0%9F%9A%80+++%E2%94%82;%E2%95%B0%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%AF" alt="Terminal"/>
   </a>
 </div>
 
@@ -45,17 +45,11 @@
   <img src="https://komarev.com/ghpvc/?username=DuminAndrew&color=00A8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/DuminAndrew?label=Followers&style=for-the-badge&color=00A8FF&labelColor=0D1117" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/DuminAndrew?label=Stars&style=for-the-badge&color=00A8FF&labelColor=0D1117" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Focus-C%2B%2B-00599C?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20Security-00599C?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%94%A5-success?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=1500&color=41CD52&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%E2%80%9CAny+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.%E2%80%9D;%E2%80%94+Martin+Fowler" alt="Martin Fowler quote"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="divider.svg" width="100%" alt="divider"/>
@@ -83,16 +77,16 @@ public:
 
     std::array<std::string_view, 5> focus = {
         "⚡ High-Performance Computing",
+        "🔐 Security & Privacy Tooling",
         "🧠 System Programming",
         "👁️  Computer Vision (OpenCV)",
-        "🎨 Graphics & OpenGL",
         "🔧 Low-level Optimization"
     };
 
     std::array<std::string_view, 3> currently = {
+        "🔍 Building static analyzers (Solidity, Android SDKs)",
         "📚 Exploring C++23 features",
-        "🦀 Learning Rust for fun",
-        "🧩 Grinding LeetCode daily"
+        "🦀 Learning Rust for fun"
     };
 
     template<typename T>
@@ -115,15 +109,13 @@ public:
 
 > 🔭 &nbsp; Building **lightning-fast** backend systems in modern C++
 
-> 🌱 &nbsp; Deep-diving into **C++23**, **concepts**, and **coroutines**
+> 🔐 &nbsp; Writing **security & privacy tools** — SDK scanners, gas-inefficiency detectors, Android debloaters
 
-> 👁️ &nbsp; Fascinated by **computer vision** and **image processing**
+> 🌱 &nbsp; Deep-diving into **C++23**, **concepts**, and **coroutines**
 
 > ⚙️ &nbsp; In love with **CMake**, **clean code**, and **SOLID**
 
 > 🧩 &nbsp; Daily **LeetCode** warrior — algorithms are my cardio
-
-> 📖 &nbsp; Always reading: *Effective Modern C++*, *CLRS*, *OS Concepts*
 
 > 🤝 &nbsp; Open to **collaboration** on ambitious projects
 
@@ -148,7 +140,7 @@ public:
 <details open>
 <summary><b>💻 &nbsp; Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,bash,cmake,lua&perline=7" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,rust,python,kotlin,bash,cmake&perline=7" alt="Languages"/>
 </details>
 
 <details open>
@@ -160,8 +152,15 @@ public:
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
 <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="STL"/>
 <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GoogleTest"/>
-<img src="https://img.shields.io/badge/fmt-125EA2?style=for-the-badge&logoColor=white" alt="fmt"/>
-<img src="https://img.shields.io/badge/spdlog-FF6B00?style=for-the-badge&logoColor=white" alt="spdlog"/>
+</details>
+
+<details open>
+<summary><b>🔐 &nbsp; Security & Tooling</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/SARIF-000000?style=for-the-badge" alt="SARIF"/>
+<img src="https://img.shields.io/badge/Static_Analysis-FF6B00?style=for-the-badge" alt="Static Analysis"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 </details>
 
 <details open>
@@ -210,40 +209,29 @@ public:
   <img src="divider.svg" width="100%" alt="divider"/>
 </div>
 
-### 🏅 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuminAndrew&theme=tokyonight" width="100%" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuminAndrew&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuminAndrew&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuminAndrew&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuminAndrew&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
-</div>
-
-<div align="center">
-  <img src="divider.svg" width="100%" alt="divider"/>
-</div>
-
 ### 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/OmniDesk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=QuizOwn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 1"/>
+  <a href="https://github.com/DuminAndrew/SDK-Sanitizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=SDK-Sanitizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="SDK-Sanitizer"/>
   </a>
-  <a href="https://github.com/DuminAndrew/TikCanvas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=MD-RDS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 2"/>
+  <a href="https://github.com/DuminAndrew/solidity-gas-slasher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=solidity-gas-slasher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="solidity-gas-slasher"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DuminAndrew/rudapt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=Text-User-Interface&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="Repo 3"/>
+  <a href="https://github.com/DuminAndrew/BloatFree-Android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=BloatFree-Android&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="BloatFree-Android"/>
+  </a>
+  <a href="https://github.com/DuminAndrew/LocalContext">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=LocalContext&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="LocalContext"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DuminAndrew/QuizOwn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminAndrew&repo=QuizOwn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=c9d1d9" alt="QuizOwn"/>
   </a>
 </div>
 
@@ -264,15 +252,6 @@ public:
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/your_vk">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-  </a>
-  <a href="https://youtube.com/your_youtube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
   <a href="mailto:duminandrew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
